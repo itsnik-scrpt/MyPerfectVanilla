@@ -1,0 +1,23 @@
+# Minecraft runtime / personal data
+crash-reports/
+logs/
+saves/
+data/
+datapacks/
+downloads/
+schematics/
+debug-profile.json
+realms_persistence.json
+usercache.json
+
+# Launcher cache
+.cache/
+.fabric/
+.mods/
+
+# Mod JARs (download via Modrinth — do not redistribute)
+mods/*.jar
+
+# OS
+Thumbs.db
+.DS_Store

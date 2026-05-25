@@ -1,0 +1,8 @@
+{
+	// When enabled, the trades of the wandering trader will never lock up.
+	"wanderingTraderInfiniteTrades": true,
+	// When enabled, the trades of villagers will never lock up.
+	"villagerInfiniteTrades": true,
+	// If abstract villagers that are not a villager or wandering trader, from other mods, should have infinite trades.
+	"fallbackInfiniteTrades": true
+}
