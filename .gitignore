@@ -15,9 +15,6 @@ usercache.json
 .fabric/
 .mods/
 
-# Mod JARs (download via Modrinth — do not redistribute)
-mods/*.jar
-
 # OS
 Thumbs.db
 .DS_Store
