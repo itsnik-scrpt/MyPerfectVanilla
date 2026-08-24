@@ -6,6 +6,12 @@
   <br>
   <h3>THE VANILLA EXPERIENCE, POLISHED TO PERFECTION.</h3>
   <p><em>A seamless blend of peak performance, breathtaking visuals, and essential quality-of-life enhancements.</em></p>
+  <p>
+    <a href="https://modrinth.com/modpack/mpv"><img src="https://img.shields.io/modrinth/dt/nTqRfBAE?logo=modrinth&label=downloads&color=00AF5C&style=for-the-badge" alt="Modrinth downloads" /></a>
+    <a href="https://modrinth.com/modpack/mpv/versions"><img src="https://img.shields.io/modrinth/v/nTqRfBAE?logo=modrinth&label=version&color=00AF5C&style=for-the-badge" alt="Latest version" /></a>
+    <img src="https://img.shields.io/modrinth/game-versions/nTqRfBAE?label=minecraft&color=62B47A&style=for-the-badge" alt="Minecraft versions" />
+    <img src="https://img.shields.io/badge/loader-Fabric-DBD0B4?style=for-the-badge&logo=fabric" alt="Fabric" />
+  </p>
 </div>
 
 ---
